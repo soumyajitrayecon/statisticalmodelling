@@ -84,8 +84,11 @@ newdata.to_csv('med_1.csv')
 
 print(summary)
 
+# In[16]:
 
-# In[ ]:
+
+print(x)
+
 
 
 
